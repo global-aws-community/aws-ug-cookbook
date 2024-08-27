@@ -13,6 +13,7 @@ This repository serves as a "cookbook" where AWS user groups can contribute thei
 - **Case Studies and Success Stories**: Read about the experiences of other user groups, including what worked well and what challenges they faced.
 - **Templates and Resources**: Access ready-to-use templates for event planning, communication, and more to help streamline your processes.
 - **Discussion and Collaboration**: Participate in discussions, ask questions, and share your insights with other AWS user group leaders.
+- **[Sponsors](sponsors/README.md)**: Information about current sponsors.
 
 ## How to Contribute
 
