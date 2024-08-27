@@ -25,6 +25,9 @@ This repository is powered by the AWS community, for the AWS community. We encou
 
 Together, we can create a comprehensive resource that helps AWS user groups around the world thrive.
 
+### Usefull Links
+- [Find an AWS User Group (AWS official website)](https://aws.amazon.com/developer/community/usergroups/?community-user-groups-cards.sort-by=item.additionalFields.ugName&community-user-groups-cards.sort-order=asc&awsf.location=*all&awsf.category=*all)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
