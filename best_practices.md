@@ -68,9 +68,9 @@ Pro Tip: Sessionize offers a community license for free events. [Learn more](htt
 
 ### Sponsorships
 
-Set up a [form](https://bit.ly/AWSugSponsors) for companies interested in sponsoring your event and reach out to local technology firms, as many are keen to support such events.
+Set up a [form](https://bit.ly/AWSugSponsors) for companies interested in sponsoring your event and reach out to local technology firms, as many are keen to support such events. They can sponsor the event by hosting it in their offices, paying for food & drinks, or covering other event-related costs such as promotional materials, giveaways, or speaker travel expenses. Read more [here](./sponsors/README.md) for information about getting sponsors.
 
-Choose a venue in a central location—downtown is ideal for easy access for most attendees.
+> Choose a venue in a central location—downtown is ideal for easy access for most attendees.
 
 What to Offer Sponsors:
 - **Visibility:** Feature their logos on the event banner and landing page, including a link to their website.
