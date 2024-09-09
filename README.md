@@ -11,7 +11,7 @@ This repository serves as a "cookbook" where AWS user groups can contribute thei
 - **Event [Best Practices](./best_practices.md)**
 - **Engagement Strategies**: Learn how to keep your community engaged, whether through social media, newsletters, or unique event formats.
 - **Case Studies and Success Stories**: Read about the experiences of other user groups, including what worked well and what challenges they faced.
-- **Templates and Resources**: Access ready-to-use templates for event planning, communication, and more to help streamline your processes.
+- **[Templates and Resources](templates-and-resources/README.md)**: Access ready-to-use templates for event planning, communication, and more to help streamline your processes.
 - **Discussion and Collaboration**: Participate in discussions, ask questions, and share your insights with other AWS user group leaders.
 - **[Sponsors](sponsors/README.md)**: Information about current sponsors.
 
