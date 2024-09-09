@@ -8,7 +8,7 @@ This repository serves as a "cookbook" where AWS user groups can contribute thei
 
 ## What You'll Find Here
 
-- **Event Planning Tips**: From choosing the right venue to managing event logistics, discover practical advice that has worked for other AWS user groups.
+- **Event [Best Practices](./best_practices.md)**
 - **Engagement Strategies**: Learn how to keep your community engaged, whether through social media, newsletters, or unique event formats.
 - **Case Studies and Success Stories**: Read about the experiences of other user groups, including what worked well and what challenges they faced.
 - **Templates and Resources**: Access ready-to-use templates for event planning, communication, and more to help streamline your processes.
