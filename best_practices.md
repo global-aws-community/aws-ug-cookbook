@@ -6,13 +6,13 @@ Depending on the size of the meetup additional steps may be required.
 
 ```mermaid
 flowchart TB
-    create[0. Create an AWS User Group] --> start[1. Start planning the event]
+    create[0-Create an AWS User Group] --> start[1-Start planning the event]
     start -.- speakers[Find speakers] & sponsor[Find a sponsor]
     sponsor -.- location[Event location] & food[Food and drinks]
-    start --> schedule[2. Schedule the event]
-    schedule --> announce[3. Announce the event]
-    announce --> run[4. Run the event]
-    run --> wrapup[5. Post event]
+    start --> schedule[2-Schedule the event]
+    schedule --> announce[3-Announce the event]
+    announce --> run[4-Run the event]
+    run --> wrapup[5-Post event]
     run -.- setup[Setup Location] & welcome[Welcome attendees] & program[Conduct program]
     wrapup --> start
     wrapup -.- retro[Retro] & resources[Share documents and pictures]
@@ -24,7 +24,7 @@ flowchart TB
 Each of the steps above are described in more detail below:
 
 - [0. Getting Started](#0-create-the-aws-user-group)
-- [1. Start planning your event](#1-start-planning-you-event)
+- [1. Start planning your event](#1-start-planning-your-event)
   * [Find Speakers](#find-speakers)
   * [Sponsorships](#sponsorships)
 - [2. Schedule a new event](#2-schedule-a-new-event)
