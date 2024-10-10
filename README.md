@@ -49,6 +49,8 @@ Keeping your community engaged is crucial for sustained success. This section of
 - **Content Creation**: Ideas for blogs, podcasts, and videos to keep members interested.
 - **Interactive Sessions**: Incorporating Q&A, polls, and breakout rooms in your events.
 - **Community Building Activities**: Organizing hackathons, study groups, or mentorship programs.
+  - [List of Community Programs](/programs/readme.md)
+    - Ex.: [Accountability Buddies](/programs/accountability-buddies.md)
 
 Explore Engagement Strategies TODO
 
