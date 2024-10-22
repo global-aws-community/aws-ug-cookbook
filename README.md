@@ -100,20 +100,6 @@ Our sponsors play a vital role in supporting community events:
 Learn More About Sponsorship
 
 
-## How to Contribute
-
-This repository is powered by the AWS community, for the AWS community. We encourage contributions from all AWS user groups, regardless of size or location. Whether you have a tried-and-true method for organizing meetups or a fresh idea you're experimenting with, your input is valuable.
-
-### Contribution Guidelines
-1. **Fork** this repository and create a new branch.
-2. Add your content in the appropriate section or create a new one if needed.
-3. Submit a **pull request** with a brief description of your contribution.
-
-Together, we can create a comprehensive resource that helps AWS user groups around the world thrive.
-
-### Usefull Links
-- [Find an AWS User Group (AWS official website)](https://aws.amazon.com/developer/community/usergroups/?community-user-groups-cards.sort-by=item.additionalFields.ugName&community-user-groups-cards.sort-order=asc&awsf.location=*all&awsf.category=*all)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
