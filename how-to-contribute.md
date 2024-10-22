@@ -6,7 +6,7 @@ Whether you have suggestions for improving existing content, new ideas to share,
 
 This repository is an attempt to create a general resource that embraces all cultures and diversities. We know it's a challenging task, so if there's something you don't like, tell us about it. We can review based on your feedback and add appendices that address specific situations.
 
-Feel free to [open an issue](#open-an-issue) to discuss your thoughts or even [submit a pull request](#submit-a-pull-request) to add your contributions directly.
+Feel free to open an issue to discuss your thoughts or even submit a pull request to add your contributions directly.
 
 Let's work together to make this a truly collaborative and helpful resource for AWS User Groups everywhere.
 
