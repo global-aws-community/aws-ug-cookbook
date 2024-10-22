@@ -1,7 +1,8 @@
 # AWS User Group Cookbook
 
-Welcome to the **AWS User Group Cookbook**, a collaborative resource designed to help AWS User Groups (also known as AWS UGs) around the globe share their experiences, best practices, and creative strategies for organizing and running successful community events.
+Welcome to the **AWS User Group Cookbook**, a collaborative resource designed by AWS User Groups to the AWS User Groups, to help AWS User Groups (also known as AWS UGs) around the globe share their experiences, best practices, and creative strategies for organizing and running successful community events.
 
+It is important to keep full autonomy on the AWS User Groups, specialy from Amazon, so that the AWS User Groups continue to be fully independent and impartial from AWS.
 
 Table of Contents
 
