@@ -4,6 +4,8 @@ The **AWS User Group Cookbook** is a community-driven collection of best practic
 
 Maintaining independence, identity, and localization to your local characteristics and needs is crucial, which is why **this resource is built by user groups, for user groups**, keeping these values at the forefront. Dive in, contribute your knowledge, and let's make our communities stronger together!
 
+If you’re leading an AWS User Group or looking to start one in your city, this cookbook is your go-to resource.
+
 # Contribute
 Ready to get involved? Visit [**How to Contribute**](/how-to-contribute.md) to learn how you can share your insights and be part of this growing resource!
 
@@ -23,7 +25,7 @@ Table of Contents
 - [Event Best Practices](#event-best-practices)
 - [Engagement Strategies](#engagement-strategies)
 - Case Studies and Success Stories
-- Templates and Resources
+- [Templates and Resources](#templates-and-resources)
 - [Sponsors](#sponsors)
 - How to Contribute
   - Contribution Guidelines
