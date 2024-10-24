@@ -1,0 +1,28 @@
+name: Report an error 🚨
+description: Create a report to help us improve
+labels: "bug"
+body:
+- type: textarea
+  attributes:
+    label: Report
+    description: "What error have you encountered?"
+    placeholder: "A clear and concise description of what the error is."
+- type: textarea
+  attributes:
+    label: Expected content
+    description: What did you expect to see?
+    placeholder: What did you expect to see?
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Link of the content with the error
+    description: Share the link of the content with the error
+    placeholder: Share the link of the content with the error
+  validations:
+    required: true
+- type: textarea
+  id: anything-else
+  attributes:
+    label: Anything else?
+    description: "Let us know if you have anything else to share"
