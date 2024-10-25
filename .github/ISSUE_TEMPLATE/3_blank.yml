@@ -1,0 +1,9 @@
+name: Blank request 📝
+description: If the current templates don't meet your needs, use the blank template.
+labels: "needs-discussion"
+body:
+- type: textarea
+  id: issue
+  attributes:
+    label: Issue description
+    description: "Tell us what you have in mind"
