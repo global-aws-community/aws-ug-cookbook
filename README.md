@@ -24,4 +24,4 @@ For AWS official resources on User Groups, visit the official [AWS webpages](htt
 
 # Contribute
 
-Ready to add your spice? Visit [**How to Contribute**](/how-to-contribute.md) to learn how you can collaborate and be part of this growing resource! You can also join the monthly [community meeting](./events/ug-cookbook-community-meetings/README.md) to share your ideas and help build an even cooler cookbook. 
+Ready to add your spice? Visit [**How to Contribute**](/how-to-contribute.md) to learn how you can collaborate and be part of this growing resource! You can also join the monthly [community meeting](./events/ug-cookbook-community-meetings/) to share your ideas and help build an even cooler cookbook. 
