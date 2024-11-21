@@ -8,12 +8,12 @@ If you’re leading an AWS User Group or looking to start one in your city, this
 
 # Recipes
 
-- [**Sessions**](./sessions/README.md): Find many session types and how to run it
-- [**Programs**](./programs/README.md): Learning and engagement programs used by UGs around the world
-- [**Events**](./events/README.md): Guides to events organized by the AWS community
-- [**Sponsors**](./sponsors/README.md): Discover details of sponsors and techniques to grow your community
-- [**Toolkit**](./toolkit/README.md): Find useful resources to boost your meetup
-- [**Appendix**](./appendix/README.md): Read success stories and learn what makes each AWS UG unique
+- [**Sessions**](./sessions/): Find many session types and how to run it
+- [**Programs**](./programs/): Learning and engagement programs used by UGs around the world
+- [**Events**](./events/): Guides to events organized by the AWS community
+- [**Sponsors**](./sponsors/): Discover details of sponsors and techniques to grow your community
+- [**Toolkit**](./toolkit/): Find useful resources to boost your meetup
+- [**Appendix**](./appendix/): Read success stories and learn what makes each AWS UG unique
 
 # What this resource is not
 - It is not an official AWS documentation or an authoritative guide from AWS itself.
