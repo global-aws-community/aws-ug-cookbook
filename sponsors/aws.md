@@ -10,10 +10,10 @@ AWS covers the full cost of our Meetup.com subscription. This allows us to manag
 - **Full Coverage**: AWS pays for the entire Meetup.com subscription.
 
 ### Requirements:
-- TODO
+- You’re part of an active UG (you organize at least 1 event every 3 months).
 
 ### How to request:
-- TODO
+- Follow the instructions on [slack](https://aws-usergroup-leaders.slack.com/archives/C01SKCN3MRV/p1707153665684869).
 
 ## 2. Promotional Materials
 
@@ -25,10 +25,10 @@ AWS provides a variety of promotional materials to help enhance our events and g
 - **AWS Credits**: Promotional credits for AWS services to distribute among our members, encouraging cloud experimentation and learning.
 
 ### Requirements:
-- TODO
+- You’re part of an active UG (you organize at least 1 event every 3 months).
 
 ### How to request:
-- TODO
+- Contact the AWS Community Manager of your region.
 
 
 ## 3. Event Support
@@ -41,10 +41,10 @@ AWS offers additional support for specific events, which may include funding, sp
 - **Promotional Assistance**: Help with promoting events through AWS channels.
 
 ### Requirements:
-- TODO
+- You’re part of an active UG (you organize at least 1 event every 3 months).
 
 ### How to request:
-- TODO
+- Contact the AWS Community Manager of your region.
 
 
 ## 4. Community Builders Program
@@ -56,11 +56,35 @@ AWS may extend invitations to our user group leaders to join the AWS Community B
 - **Networking Opportunities**: Connect with other community leaders and AWS experts.
 
 ### How to apply:
-- TODO
+- [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+
+
+## 5. Certification vouchers
+
+AWS offers certification one certification voucher per year for UG Leaders.
+
+### Requirements:
+- You’ve been studying and training for the exam, and you’re planning to take the exam in 30 days.
+- You’re part of an active UG (you’ve organized an event in the last 3 months).
+
+### How to request:
+- Follow the instructions on [slack](https://aws-usergroup-leaders.slack.com/archives/C01SKCN3MRV/p1710492655030909).
+
+
+## 6. Discount on AWS events
+
+AWS can offer AWS UG leaders (and sometimes active members as well) discounts on the world's biggest cloud events, such as AWS re:Invent and AWS re:Inforce.
+
+### Requirements:
+- You’re part of an active UG (you’ve organized an event in the last 3 months).
+
+### How to request:
+- As this benefit is only available close to the event dates, contact the AWS Community Manager of your region for more information.
+
 
 ## Contact for Sponsorship
 
-If you have any questions about the AWS sponsorship program or need assistance, please reach out to the AWS community support team at TODO
+If you have any questions about the AWS sponsorship program or need assistance, please reach out to the AWS Community Manager of your region.
 
 ---
 
