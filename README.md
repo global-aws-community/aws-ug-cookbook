@@ -1,5 +1,7 @@
 # AWS User Group Cookbook
 
+<img align="right" width="342" alt="aws-ug-cookbook" src="https://github.com/user-attachments/assets/965769f8-27ae-4096-ad27-fd926568b189">
+
 The **AWS User Group Cookbook** is a community-driven collection of best practices, creative event ideas, and success stories from AWS User Groups around the globe. Our **goal is to empower user groups** by sharing practical "recipes" that foster collaboration, engagement, and impact. Whether **you're new to running community events or a seasoned organizer**, this repository offers a wealth of resources to help you grow and sustain a **thriving AWS community**.
 
 Maintaining independence, identity, and localization to your local characteristics and needs is crucial, which is why **this resource is built by user groups, for user groups**, keeping these values at the forefront. Dive in, contribute your knowledge, and let's make our communities stronger together!
