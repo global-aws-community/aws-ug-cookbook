@@ -16,6 +16,7 @@ If you’re leading an AWS User Group or looking to start one in your city, this
 - [**Events**](./events/): Guides to events organized by the AWS community
 - [**Sponsors**](./sponsors/): Discover details of sponsors and techniques to grow your community
 - [**Toolkit**](./toolkit/): Find useful resources to boost your meetup
+- [**Swag**](./swag/): Get ideas for cool swag for your events
 - [**Appendix**](./appendix/): Read success stories and learn what makes each AWS UG unique
 
 # What this resource is not
