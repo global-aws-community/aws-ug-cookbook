@@ -14,6 +14,10 @@ Let's work together to make this a truly collaborative and helpful resource for 
 
 If you have an idea, suggestion, or found something that could be improved, feel free to [open a new issue](https://github.com/global-aws-community/aws-ug-cookbook/issues/new). Issues are a great way to start a conversation, ask questions, or propose changes before diving into a full contribution. We value all feedback, so don't hesitate to let us know your thoughts!
 
+## Video Guide on how to open an issue
+
+[![open issue](https://github.com/user-attachments/assets/70828705-8160-4df9-b829-581b0a56b7b0)](https://youtu.be/Lqv_B66xrqw?si=uN104tOAzAtdUQ29)
+
 ## Submit a pull request
 
 Once you've identified a change you'd like to make, you can submit a pull request. Fork this repository, make your changes, and submit a pull request for review. Be sure to provide a clear description of the changes you've made and the problem it solves. We're here to help if you need any guidance throughout the process!
@@ -22,5 +26,11 @@ Once you've identified a change you'd like to make, you can submit a pull reques
 1. **Fork** this repository and create a new branch.
 2. Add your content in the appropriate section or create a new one if needed.
 3. Submit a **pull request** with a brief description of your contribution.
+
+## Video Guide on how to open a Pull Request
+
+[![open create a PR](https://github.com/user-attachments/assets/3f942c85-95a8-4d6a-b595-cc932384175f)](https://youtu.be/Lqv_B66xrqw?si=uN104tOAzAtdUQ29&t=187)
+
+
 
 Let's build an amazing resource together! Your contributions make a real difference, and we can't wait to see what you'll bring to the table. Get started today by opening an issue or submitting a pull request!
