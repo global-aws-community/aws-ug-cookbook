@@ -27,10 +27,6 @@ There are the roles the organizers usually do.
 From 1 to 10 organizers share these roles.
 Some meetup there is only one person manage every roles.
 
-"""
-Running a meetup event alone is challenging. I usually reserve the venue at my workplace, announce the meetup, monitor attendance fee, order pizza on the event day, start and finish the event, dismiss attendees, and lock the office door afterward. Although I've simplified the process as much as possible, there's still a lot to manage.
-"""
-
 ## 1. Outline the content
 
 ### Keynote
